@@ -8,7 +8,9 @@ const colors = {
   "2": [h, s, l+10, 'Primary 080'],
   "3": [h, s, l+15, 'Primary 070'],
   "4": [h, s, l+20, 'Primary 060'],
-
+  "4": [h, s, l+20, 'Primary 060'],
+  "5": [h, s, l+20, 'Primary 060'],
+  "6": [h, s, l+20, 'Primary 060'],
 }
 
 const div = document.getElementsByClassName('color-list')[0]
